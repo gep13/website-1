@@ -588,7 +588,7 @@ Request body:
 
 ```text
 {
-    deploymentId: 123
+    "deploymentId": 123
 }
 ```
 
